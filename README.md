@@ -247,6 +247,9 @@ Both are built with `CMakeLists.txt` and registered via `rvis_common_plugins.xml
 ## Author
 
 **Chheng Lydiya**
+
 Student at Department of Telecommunication and Network Engineering (GTR)
+
 Institute of Technology Cambodia
+
 GitHub: [c-lydia](https://github.com/c-lydia)
